@@ -27,11 +27,21 @@ img {
 
 }
 
+.gmailimages {
+    position: absolute;
+    top: 1%;
+    right: 1%;
+}
+
 #about {
     margin-right: 5px;
 }
 
-.aboutstore {
+#gmail {
+    margin-right: 5px;
+}
+
+.links {
     color: #000;
     text-decoration: none;
     font-size: 13px;
