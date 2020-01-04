@@ -27,11 +27,33 @@ img {
 
 }
 
+#unitedkingdom {
+    position: relative;
+    bottom: 5%;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top: 1px;
+    border-bottom: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 475px;
+    color: rgba(0,0,0,.54);
+    background: #f2f2f2;
+    padding-left: 25px;
+}
+
 .gmailimages {
     position: absolute;
     top: 1%;
     right: 1%;
 }
+
+.aboutstore {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
 
 #about {
     margin-right: 5px;
@@ -49,4 +71,6 @@ img {
 
 body {
     font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
 }
