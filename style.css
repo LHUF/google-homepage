@@ -36,7 +36,7 @@ img {
     border-bottom: 1px;
     padding-top: 5px;
     padding-bottom: 5px;
-    margin-top: 475px;
+    margin-top: 505px;
     color: rgba(0,0,0,.54);
     background: #f2f2f2;
     padding-left: 25px;
@@ -53,6 +53,34 @@ img {
     position: absolute;
     top: 1%;
     left: 1%;
+}
+
+#bottomrightoptions {
+    padding-right: 25px;
+    font-size: 13px;
+    padding-top: 15px;
+    color: rgba(0,0,0,.54);
+    background: #f2f2f2;
+    position: absolute;
+    float: right;
+    padding-left: 800px;
+    bottom: 0.5%;
+    right: 0%;
+
+    
+}
+
+#bottomleftoptions {
+    padding-left: 25px;
+    font-size: 13px;
+    padding-top: 15px;
+    color: rgba(0,0,0,.54); 
+    background: #f2f2f2;
+    position: absolute;
+    float: left;
+    padding-right: 800px;
+    bottom: 0.5%;
+    left: 0%;
 }
 
 
